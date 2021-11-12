@@ -19,10 +19,15 @@
 </p>
 <br>
 
+## 🛠 Installation
+```shell
+$ npm install --save zaid
+```
+
 ## 🚀 Usage
 ```js
 const fs = require('fs')
-const zaid = require('..')
+const zaid = require('zaid')
 
 const url = 'https://cdn.discordapp.com/emojis/891761238994976788.png';
 
