@@ -1,10 +1,14 @@
 {
-  "name": "zaid",
+  "name": "bablu",
   "version": "1.0.0",
   "description": "Fill PNG with different color.",
   "main": "index.js",
   "author": "Darshan Patel <heyforscht@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forscht/bablu"
+  },
   "engines": {
     "node": "16.x"
   },
