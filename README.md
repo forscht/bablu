@@ -41,5 +41,5 @@ const url = 'https://cdn.discordapp.com/emojis/891761238994976788.png';
 <!-- footer -->
 
 ## 📰 License
-> The **zaid** project is released under the [GNU 3.0](LICENSE.md). <br> Developed &amp; maintained By Darshan Patel.
+> The **zaid** project is released under the [GNU 3.0](LICENSE). <br> Developed &amp; maintained By Darshan Patel.
 <hr>
